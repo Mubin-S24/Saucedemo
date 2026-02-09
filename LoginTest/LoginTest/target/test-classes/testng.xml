@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Login Automation Suite">
+    <test name="Login Excel Data Test">
+
+        <classes>
+            <class name="tests.LoginExcelTest"/>
+        </classes>
+    </test>
+</suite>
