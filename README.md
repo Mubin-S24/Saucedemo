@@ -59,8 +59,8 @@ The framework is scalable, maintainable, and configurable, making it suitable fo
    mvn test
    
 3. Run from IDE
-*     Open testng.xml
-*     Right-Click -> Run
+* Open testng.xml
+* Right-Click -> Run
 
 
 
