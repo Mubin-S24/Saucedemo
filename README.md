@@ -50,17 +50,16 @@ The framework is scalable, maintainable, and configurable, making it suitable fo
 ## How to Run the Tests
 
 1. Prerequisites
-* Java 8 or higher.
-* Maven installed.
-* Internet connection (for WebDriverManager)
-  
+  * Java 8 or higher.
+  * Maven installed.
+  * Internet connection (for WebDriverManager)
+
 2. Run Using TestNG XML
-   (Bash)
-   mvn test
+  * (Bash) - mvn test
    
 3. Run from IDE
-* Open testng.xml
-* Right-Click -> Run
+  * Open testng.xml
+  * Right-Click -> Run
 
 
 
